@@ -12,4 +12,5 @@ My experience in caregiving taught me how to observe patterns,communicate clearl
 
 I love watching movies and reading
 My goal is to get job in the healthcare and go back to nursing school
+
 You can contact me on GitHub or https://www.linkendin.com/in/comfort-tulasi
