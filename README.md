@@ -1,6 +1,6 @@
  👋 Hi I'm Comfort Tulasi
 Business Intelligence Analyst.Based in Clinton CT,| Pasionate about transforming data into actionable insights.
-I'm a Business Intelligence Analyst  with over 9+ years of experienceas a live-in caregiver.My firsthand knowledge of heathcare operations and my technicaltraining in data analysis allowme to bridge the gap between patient careand data-driven solutions.
+I'm a Business Intelligence Analyst  with over 9+ years of experienceas a live-in caregiver.My firsthand knowledge of heathcare operations and my technical training in data analysis allow me to bridge the gap between patient care and data-driven solutions.
 
 After earning my Business Intelligence Analyst certificate from TripleTen,I've focused on projects that turn raw data into meaningful dashbaord,visualization,reports strategic insights
 I mastered this skills SQL,Power BI,Tableau, Sreadsheet,Business Analystic Data cleaning ,KPI reporting, Dashboard developments communication,crictical thinking, problem solving, collaboration
